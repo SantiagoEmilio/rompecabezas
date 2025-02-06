@@ -10,7 +10,7 @@
 
     display: grid;
     grid-template-columns: 30% auto;
-    grid-template-rows: 8rem auto 10rem;
+    grid-template-rows: 6rem auto 10rem;
 }
 
 .div-header { 
@@ -24,7 +24,7 @@
     margin: 10px;
 }
 
-.div-tablero {
+.div-tablero {  
     grid-column: 2/3;
     grid-row: 2/3;
     margin: 10px;
